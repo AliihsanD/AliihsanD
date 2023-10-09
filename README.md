@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ali Ihsan</h1>
 <h3 align="center">I am studying Software Engineering at Celal Bayar University.I train myself to be a person constantly tries to adapt to new technologies and to be a good researcher.I'm improving myself.</h3>
 
